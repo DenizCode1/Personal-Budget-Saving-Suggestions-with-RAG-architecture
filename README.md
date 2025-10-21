@@ -50,18 +50,27 @@ DEPLOY LİNKİ: https://personal-budget-saving-suggestions-with-rag-architecture
 <img width="956" height="556" alt="SCR-20251021-uozw" src="https://github.com/user-attachments/assets/8ab6e1ca-23ed-4231-8f77-9bff5494a7ba" />
 
 💻 Kullanılan Teknolojiler:
+
 GenAI : Google Gemini -2.5-Flash
+
 Embedding Model : Google API
+
 Vector Database : ChromaDB
+
 RAG Pipeline : Custom Python Modules
+
 Web Interface : Streamlit
+
 Data Processing : Python, PyPDF2
 
 
 ☎️ İletişim:
 denizincece1@gmail.com
+
 GitHub: https://github.com/DenizCode1
+
 LinkedIn: https://www.linkedin.com/in/deniz-ince-8519b0255/
+
 
 📐 Proje Mimarisi:
 
@@ -85,3 +94,4 @@ personal-budget-suggestions-rag/
 ├── .gitignore             
 ├── requirements.txt       
 └── README.md              
+
