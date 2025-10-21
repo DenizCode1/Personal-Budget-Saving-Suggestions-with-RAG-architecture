@@ -1,0 +1,5 @@
+Borç Yönetimi Stratejileri:
+Borçları yönetmenin iki ana stratejisi vardır: Kartopu (Snowball) Yöntemi ve Çığ (Avalanche) Yöntemi.
+
+Kartopu Yöntemi: Bu yöntemde, faiz oranına bakılmaksızın, en küçük borçtan başlanır. En küçük borç bittikten sonra, o borca ödenen miktar bir sonraki en küçük borca eklenir. Bu yöntem, borçlulara hızlı zaferler kazandırarak motivasyonu artırmak için idealdir.
+Çığ Yöntemi: Bu yöntemde ise, en yüksek faiz oranına sahip borçtan başlanır. Amaç, faiz maliyetini en aza indirmek ve uzun vadede en çok parayı tasarruf etmektir. En yüksek faizli borç bittiğinde, o borca ödenen miktar bir sonraki yüksek faizli borca yönlendirilir. Çığ yöntemi matematiksel olarak daha verimli olsa da, Kartopu yöntemi psikolojik olarak daha kolay gelebilir. Her iki durumda da, borç ödemelerine ekstra para ayırmak, planın başarısı için kritik öneme sahiptir.

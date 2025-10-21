@@ -1,0 +1,5 @@
+50/30/20 Bütçeleme Kuralı:
+50-30-20 kuralı, finansal yönetimi basitleştiren popüler bir bütçeleme yöntemidir. Bu kurala göre, net geliriniz (vergiler sonrası kalan miktar) üç kategoriye ayrılır:
+1. %50 İhtiyaçlar (Needs): Bunlar hayatta kalmak için zorunlu olan masraflardır. Örnekler: Kira/Mortgage, temel gıda harcamaları, sigorta primleri, asgari kredi ödemeleri ve ulaşım.
+2. %30 İstekler (Wants): Bunlar olmadan yaşayabileceğiniz, ancak hayat kalitenizi artıran harcamalardır. Örnekler: Restoran yemekleri, eğlence, tatiller, yeni kıyafetler ve isteğe bağlı abonelikler (Netflix gibi).
+3. %20 Birikim ve Borç Ödeme (Savings and Debt): Bu kısım, geleceğe yatırım yapmak ve finansal güvenliği artırmak için ayrılır. Örnekler: Acil durum fonuna katkılar, emeklilik hesapları ve kredi kartı/tüketici kredisi borcunun asgari ödeme üzerindeki ek ödemeleri. Bu kural, bütçenizi katı kısıtlamalar olmadan yönetmenize yardımcı olur.
