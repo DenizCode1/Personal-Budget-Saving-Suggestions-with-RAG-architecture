@@ -112,7 +112,9 @@ personal-budget-suggestions-rag/
 
 │   └── zorunlu_tasarruf.txt
 
+
 ├── notebooks/
+
 
 ├── src/
 
@@ -128,11 +130,15 @@ personal-budget-suggestions-rag/
 
 │   └── retriever.py     
 
+
 ├── .gitignore       
+
 
 ├── requirements.txt       
 
+
 └── README.md             
+
 
 
 
