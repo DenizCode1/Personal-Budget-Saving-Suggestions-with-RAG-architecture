@@ -98,19 +98,19 @@ personal-budget-suggestions-rag/
 
 ├── data/
 
-│   ├── acil_durum_fonu.txt
+││   ├── acil_durum_fonu.txt
 
-│   ├── 50_30_20_kurali.txt
+││  ├── 50_30_20_kurali.txt
 
-│   ├── borc_yonetimi.txt
+││   ├── borc_yonetimi.txt
 
-│   ├── yatirim_temelleri.txt
+││   ├── yatirim_temelleri.txt
 
-│   ├── kredi_skoru.txt
+││   ├── kredi_skoru.txt
 
-│   ├── emeklilik_planlamasi.txt
+││   ├── emeklilik_planlamasi.txt
 
-│   └── zorunlu_tasarruf.txt
+││   └── zorunlu_tasarruf.txt
 
 
 ├── notebooks/
@@ -118,17 +118,17 @@ personal-budget-suggestions-rag/
 
 ├── src/
 
-│   ├── app.py        
+││   ├── app.py        
 
-│   ├── embedder.py    
+││   ├── embedder.py    
 
-│   ├── indexer.py     
+││   ├── indexer.py     
 
-│   ├── ingest.py    
+││   ├── ingest.py    
 
-│   ├── rag_chain.py    
+││   ├── rag_chain.py    
 
-│   └── retriever.py     
+││   └── retriever.py     
 
 
 ├── .gitignore       
@@ -138,6 +138,7 @@ personal-budget-suggestions-rag/
 
 
 └── README.md             
+
 
 
 
